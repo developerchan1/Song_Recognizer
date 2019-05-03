@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\60d3980837eda86e136c4118b7f4256c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ba681409a77063c2af806c064ae7a505\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e0a4410a7ac40a06cf37e7d50164acf3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\977ad15282def1eab483a4cf80f19d80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\da24579b9490f339c0191e2aecfc389d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\beaa7627343c91503dd7656fd5dda454\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\c0105f1415c888b149ad467feb33322c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4acfcb173ea86069be85b92ea38b20ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\e645bff6cc33a9d5e11c66dd6eced224\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d2ab42a1ee367c7ba8e6ee733049c807\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\012a1c668b19cae4f750996a02f56bb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f947d8b8b420103c640a34143f5b1f8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ae58d416cfc629edd4e9e7024f405be3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2f84f8ab9f2b9f0f4c566c274c7f2703\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\11214ecb488781b377440a6d1a2e467f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b84cc83fbffe80d321f81d5748aa75d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\01f3e0ceda3cf752ad7a2ef95c542e6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\db448dd555c52e84476275668e91dc4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\58b7023a299eed7ab5966d56931cec2c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ff77a0b502279aca5d6fdedcbd0cecca\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\31acf20413e30a44e7f92a69b65db73c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cacd0ec224b081231e217c8f046d35eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9bb0af38f30676e430f5e4cafae642c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c3d0eb4b00287af8efe1d9a70f564563\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ff62683c54464b977dfdbc18e5e0b6d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2ed3ebeec25dbc46577aa0176e035e7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\85399fe5624bb46c9899d70485cffc53\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ce59473112b17010a8a7d4a6b571cddd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f8d08dd862405343454be1f3db726b04\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e62004d7a50031070354f181a0fa1f25\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:7:5-47
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\60d3980837eda86e136c4118b7f4256c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\60d3980837eda86e136c4118b7f4256c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ba681409a77063c2af806c064ae7a505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ba681409a77063c2af806c064ae7a505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e0a4410a7ac40a06cf37e7d50164acf3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e0a4410a7ac40a06cf37e7d50164acf3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\977ad15282def1eab483a4cf80f19d80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\977ad15282def1eab483a4cf80f19d80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\da24579b9490f339c0191e2aecfc389d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\da24579b9490f339c0191e2aecfc389d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\beaa7627343c91503dd7656fd5dda454\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\beaa7627343c91503dd7656fd5dda454\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\c0105f1415c888b149ad467feb33322c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\c0105f1415c888b149ad467feb33322c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4acfcb173ea86069be85b92ea38b20ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4acfcb173ea86069be85b92ea38b20ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\e645bff6cc33a9d5e11c66dd6eced224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\e645bff6cc33a9d5e11c66dd6eced224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d2ab42a1ee367c7ba8e6ee733049c807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d2ab42a1ee367c7ba8e6ee733049c807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\012a1c668b19cae4f750996a02f56bb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\012a1c668b19cae4f750996a02f56bb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f947d8b8b420103c640a34143f5b1f8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f947d8b8b420103c640a34143f5b1f8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ae58d416cfc629edd4e9e7024f405be3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ae58d416cfc629edd4e9e7024f405be3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2f84f8ab9f2b9f0f4c566c274c7f2703\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2f84f8ab9f2b9f0f4c566c274c7f2703\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\11214ecb488781b377440a6d1a2e467f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\11214ecb488781b377440a6d1a2e467f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b84cc83fbffe80d321f81d5748aa75d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b84cc83fbffe80d321f81d5748aa75d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\01f3e0ceda3cf752ad7a2ef95c542e6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\01f3e0ceda3cf752ad7a2ef95c542e6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\db448dd555c52e84476275668e91dc4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\db448dd555c52e84476275668e91dc4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\58b7023a299eed7ab5966d56931cec2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\58b7023a299eed7ab5966d56931cec2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ff77a0b502279aca5d6fdedcbd0cecca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ff77a0b502279aca5d6fdedcbd0cecca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\31acf20413e30a44e7f92a69b65db73c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\31acf20413e30a44e7f92a69b65db73c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cacd0ec224b081231e217c8f046d35eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cacd0ec224b081231e217c8f046d35eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9bb0af38f30676e430f5e4cafae642c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9bb0af38f30676e430f5e4cafae642c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c3d0eb4b00287af8efe1d9a70f564563\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c3d0eb4b00287af8efe1d9a70f564563\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ff62683c54464b977dfdbc18e5e0b6d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ff62683c54464b977dfdbc18e5e0b6d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2ed3ebeec25dbc46577aa0176e035e7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2ed3ebeec25dbc46577aa0176e035e7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\85399fe5624bb46c9899d70485cffc53\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\85399fe5624bb46c9899d70485cffc53\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ce59473112b17010a8a7d4a6b571cddd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ce59473112b17010a8a7d4a6b571cddd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f8d08dd862405343454be1f3db726b04\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f8d08dd862405343454be1f3db726b04\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e62004d7a50031070354f181a0fa1f25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e62004d7a50031070354f181a0fa1f25\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:18:22-63
+application
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:20:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e0a4410a7ac40a06cf37e7d50164acf3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e0a4410a7ac40a06cf37e7d50164acf3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\58b7023a299eed7ab5966d56931cec2c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\58b7023a299eed7ab5966d56931cec2c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ff77a0b502279aca5d6fdedcbd0cecca\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ff77a0b502279aca5d6fdedcbd0cecca\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\58b7023a299eed7ab5966d56931cec2c\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:22:9-38
+	android:allowBackup
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.acrcloud.rec.demo.MainActivity
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:26:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.acrcloud.rec.demo.Description
+ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:34:9-58
+	android:name
+		ADDED from D:\AndroidStudio\ACRCloud-android-sdk-1.5.9\ACRCloudSDKDemo\app\src\main\AndroidManifest.xml:34:19-46

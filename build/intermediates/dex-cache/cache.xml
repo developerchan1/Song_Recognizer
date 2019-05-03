@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pony/AndroidStudioProjects/ACRCloud-android-sdk-1.5.7.7/ACRCloudSDKDemo/app/libs/acrcloud-android-sdk-1.5.7.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b7a448260d83a53aa83601265940a4c8c542dc84">
+        <dex dex="/Users/pony/AndroidStudioProjects/ACRCloud-android-sdk-1.5.7.7/ACRCloudSDKDemo/app/build/intermediates/pre-dexed/debug/acrcloud-android-sdk-1.5.7.7_d136795399b0b12bf0207454a098cf10b57aa41b.jar" />
+    </item>
+    <item
+        jar="/Users/pony/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/pony/AndroidStudioProjects/ACRCloud-android-sdk-1.5.7.7/ACRCloudSDKDemo/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_fef80c05b92a38036220ebc5aa16729e41c0c6ec.jar" />
+    </item>
+
+</items>

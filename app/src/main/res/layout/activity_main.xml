@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical">
+
+    <Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#000000">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Song Recognizer"
+            android:textSize="22sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginHorizontal="20dp"
+            android:fontFamily="@font/product_sans_regular"
+            android:textColor="#ffffff"
+            />
+    </Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/background_color">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/product_sans_regular"
+            android:layout_marginTop="75dp"
+            android:layout_gravity="center"
+            android:textSize="27dp"
+            android:textColor="#ffffff"
+            android:layout_marginHorizontal="20dp"
+            android:text="Tap the button to know the song title"/>
+        <RelativeLayout
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:layout_gravity="center">
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_margin="75dp"
+                android:background="@drawable/song"
+                android:layout_centerInParent="true"
+                android:id="@+id/start"
+                />
+            <ImageView
+                android:layout_width="320dp"
+                android:layout_height="320dp"
+                android:layout_centerInParent="true"
+                android:id="@+id/image"
+                android:background="@drawable/back"/>
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!--<Button-->
+                <!--android:id="@+id/start"-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="开始" />-->
+                <!--<Button-->
+                <!--android:id="@+id/stop"-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="停止录音并搜索(仅哼唱)" />-->
+
+                <!--<Button-->
+                <!--android:id="@+id/cancel"-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="取消" />-->
+
+                <TextView
+                    android:id="@+id/result"
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:textAlignment="center"
+                    android:textSize="17dp"
+                    android:fontFamily="@font/product_sans_regular"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffffff" />
+
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+
+</LinearLayout>

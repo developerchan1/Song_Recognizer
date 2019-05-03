@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Description"
+    android:orientation="vertical"
+    android:background="@drawable/backround_color"
+    >
+
+    <Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="#000000">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            android:textSize="18sp"
+            android:id="@+id/tv_back"
+            android:fontFamily="@font/product_sans_regular"
+            android:textColor="#ffffff"
+            />
+    </Toolbar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@drawable/backround_color"
+                >
+
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:background="@drawable/song"
+                    android:layout_gravity="center"
+                    android:layout_margin="40dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hello World!!!"
+                    android:id = "@+id/tv_songName1"
+                    android:textColor="#ffffff"
+                    android:textSize="25sp"
+                    android:fontFamily="@font/product_sans_regular"
+                    android:layout_gravity="center"
+                    android:layout_marginHorizontal="20dp"
+                    android:textAlignment ="center"
+                    android:textIsSelectable = "true"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hello World!!!"
+                    android:id = "@+id/tv_songArtist1"
+                    android:textColor="#ffffff"
+                    android:layout_marginBottom="20dp"
+                    android:textSize="17sp"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/product_sans_regular"
+                    android:layout_marginTop="10dp"
+                    android:textIsSelectable = "true"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#8800cc"
+                >
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_margin="20dp"
+                    >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Description"
+                        android:layout_marginBottom ="10dp"
+                        android:layout_marginTop ="20dp"
+                        android:textColor="#ffffff"
+                        android:textSize="22sp"
+                        android:fontFamily="@font/product_sans_regular" />
+
+                    <android.support.v7.widget.CardView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#ffffff"
+                        app:cardCornerRadius="10dp">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:layout_margin = "30dp">
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginVertical= "15dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Song Title : "
+                                    android:textColor="#000000"
+                                    android:textSize="17sp"
+                                    android:fontFamily="@font/product_sans_regular" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Hello World!!!"
+                                    android:id = "@+id/tv_songName"
+                                    android:textColor="#000000"
+                                    android:textSize="17sp"
+                                    android:fontFamily="@font/product_sans_regular"
+                                    android:textIsSelectable = "true"/>
+                            </LinearLayout>
+
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginVertical= "15dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Song Artist : "
+                                    android:textColor="#000000"
+                                    android:textSize="17sp"
+                                    android:fontFamily="@font/product_sans_regular" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Hello World!!!"
+                                    android:id = "@+id/tv_songArtist"
+                                    android:textColor="#000000"
+                                    android:textSize="17sp"
+                                    android:fontFamily="@font/product_sans_regular"
+                                    android:textIsSelectable = "true"
+                                    />
+
+                            </LinearLayout>
+
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginVertical= "15dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Song Label : "
+                                    android:textColor="#000000"
+                                    android:textSize="17sp"
+                                    android:fontFamily="@font/product_sans_regular" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Hello World!!!"
+                                    android:id = "@+id/tv_songLabel"
+                                    android:textColor="#000000"
+                                    android:textSize="17sp"
+                                    android:fontFamily="@font/product_sans_regular"
+                                    android:textIsSelectable = "true"
+                                    />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginVertical= "15dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Duration : "
+                                    android:textColor="#000000"
+                                    android:textSize="17sp"
+                                    android:fontFamily="@font/product_sans_regular" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Hello World!!!"
+                                    android:id = "@+id/tv_songDuration"
+                                    android:textColor="#000000"
+                                    android:textSize="17sp"
+                                    android:fontFamily="@font/product_sans_regular"/>
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginVertical= "15dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Release Date : "
+                                    android:textColor="#000000"
+                                    android:textSize="17sp"
+                                    android:fontFamily="@font/product_sans_regular" />
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Hello World!!!"
+                                    android:id = "@+id/tv_songReleaseDate"
+                                    android:textColor="#000000"
+                                    android:textSize="17sp"
+                                    android:fontFamily="@font/product_sans_regular"/>
+
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginVertical= "15dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Genre : "
+                                    android:textColor="#000000"
+                                    android:textSize="17sp"
+                                    android:fontFamily="@font/product_sans_regular" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Hello World!!!"
+                                    android:id = "@+id/tv_songGenre"
+                                    android:textColor="#000000"
+                                    android:textSize="17sp"
+                                    android:fontFamily="@font/product_sans_regular"/>
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                    </android.support.v7.widget.CardView>
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Open from Youtube"
+                        android:layout_marginTop ="20dp"
+                        android:layout_marginBottom ="10dp"
+
+                        android:textColor="#ffffff"
+                        android:textSize="22sp"
+                        android:fontFamily="@font/product_sans_regular" />
+
+                    <android.support.v7.widget.CardView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#ffffff"
+                        app:cardCornerRadius="10dp">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:layout_margin = "20dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:id = "@+id/tv_youtube"
+                                android:textColor="#9c27b0"
+                                android:layout_margin="10dp"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/product_sans_regular"
+                                android:textSize = "16sp"
+                                android:textIsSelectable = "true"/>
+
+                        </LinearLayout>
+
+                    </android.support.v7.widget.CardView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Open from Spotify"
+                        android:layout_marginTop ="20dp"
+                        android:layout_marginBottom ="10dp"
+                        android:textColor="#ffffff"
+                        android:textSize="22sp"
+                        android:fontFamily="@font/product_sans_regular"
+                        />
+
+                    <android.support.v7.widget.CardView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#ffffff"
+                        app:cardCornerRadius="10dp">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:layout_margin = "20dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Album"
+                                android:textColor="#000000"
+                                android:textSize = "22sp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop ="10dp"
+                                android:fontFamily="@font/product_sans_regular"/>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:id = "@+id/tv_spotifyAlbum"
+                                android:textColor="#9c27b0"
+                                android:layout_margin="10dp"
+                                android:textSize = "18sp"
+                                android:layout_gravity="center"
+                                android:textAlignment ="center"
+                                android:fontFamily="@font/product_sans_regular"/>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Artist"
+                                android:textColor="#000000"
+                                android:textSize = "22sp"
+                                android:layout_marginTop ="10dp"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/product_sans_regular"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:id = "@+id/tv_spotifyArtist"
+                                android:textColor="#9c27b0"
+                                android:layout_margin="10dp"
+                                android:textSize = "18sp"
+                                android:layout_gravity="center"
+                                android:textAlignment ="center"
+                                android:fontFamily="@font/product_sans_regular"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Track"
+                                android:textColor="#000000"
+                                android:textSize = "22sp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop ="10dp"
+                                android:fontFamily="@font/product_sans_regular"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:id = "@+id/tv_spotifyTrack"
+                                android:textColor="#9c27b0"
+                                android:layout_margin="10dp"
+                                android:textSize = "18sp"
+                                android:layout_gravity="center"
+                                android:textAlignment ="center"
+                                android:fontFamily="@font/product_sans_regular"/>
+
+                        </LinearLayout>
+
+                    </android.support.v7.widget.CardView>
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="Hello World!!!"-->
+                <!--android:id = "@+id/tv_result"-->
+                <!--android:textColor="#ffffff"-->
+                <!--android:layout_margin="10dp"/>-->
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>
